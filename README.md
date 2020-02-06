@@ -1,6 +1,6 @@
 SOFTSPIDERS
 
-# Simple basic authentication client starter which test by Jest
+# Simple basic authentication client starter
 
 
 ## Feature tags
