@@ -17,7 +17,7 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-[javascript](https://github.com/softspiders/jest)
+[Jest](https://github.com/softspiders/jest)
 
 ## Requirements
 
