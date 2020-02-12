@@ -1,36 +1,52 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# Simple basic authentication client starter
+# basic-auth-client-jest-starter
 
+Simple basic authentication client starter which is tested by Jest
+
+---
 
 ## Feature tags
 
-- basic-auth
+- auth
 - express
 - jest
+- node
 - starter
 - template
+
+---
 
 ## Authors
 
 [Danila Asoyan](https://github.com/Danilkashtan)
 
-## Direct ancestors
+---
 
-[Jest](https://github.com/softspiders/jest)
+## Install
 
-## Requirements
+```
+npm i
+```
 
-[Node.js](https://nodejs.org/en/download/package-manager/)
+---
 
-## Installation
+## Running integration tests
 
-TBD
+In first command prompt run server: 
 
-## Running test
+```
+npm run start:server
+```
 
-TBD
+In second command prompt run tests:
+
+```
+npm run test
+```
+
+---
 
 ### License
 
-Licensed under the [MIT license](./LICENSE).
+Licensed under the [MIT license](./LICENSE). 

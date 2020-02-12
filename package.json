@@ -1,8 +1,26 @@
 {
-  "devDependencies": {
-    "jest": "latest"
-  },
+  "name": "basic-auth-client-jest-starter",
+  "version": "1.0.0",
+  "description": "basic-auth-client-jest-starter",
+  "main": "client.js",
   "scripts": {
+    "start:server": "node server.js",
     "test": "jest"
+  },
+  "keywords": [
+    "auth",
+    "express",
+    "jest",
+    "node",
+    "softspiders",
+    "starter",
+    "template"
+  ],
+  "author": "Danila Asoyan (https://github.com/Danilkashtan), Alexander Lapygin (https://github.com/AlexanderLapygin)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "cross-fetch": "latest",
+    "jest": "latest"
   }
 }
