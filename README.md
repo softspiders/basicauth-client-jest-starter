@@ -10,8 +10,10 @@ Simple basic authentication client starter which is tested by Jest
 
 - auth
 - express
+- integration-test
 - jest
 - node
+- rest
 - starter
 - template
 
