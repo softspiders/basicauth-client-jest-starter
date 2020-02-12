@@ -4,8 +4,8 @@
   "description": "basic-auth-client-jest-starter",
   "main": "client.js",
   "scripts": {
-    "test": "jest",
-    "start:server": "node server.js"
+    "start:server": "node server.js",
+    "test": "jest"
   },
   "keywords": [
     "auth",
