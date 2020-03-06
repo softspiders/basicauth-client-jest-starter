@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# basic-auth-client-jest-starter
+# basicauth-client-jest-starter
 
 Simple basic authentication client starter which is tested by Jest
 
